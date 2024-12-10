@@ -1,0 +1,37 @@
+Programação Estruturada:
+-Segue o fluxo / uma sequência segundo as exigências,
+ por exemplo obedecendo uma lógica de máquina.
+
+Características:
+--Sequência: Segue uma lógica para realizar algo
+
+--Decisão: Decisões que surgem apartir de um caminho ambiguo 
+
+--Iteração: Repetição controlada quando até quando a condição for sastifeita
+
+
+
+Programação Orientada:
+-surgi apartir da necessidade de deixar a programação fácil.
+
+    Ráciocinio:
+    --Obejto: Transportação de coisas reais para a programação
+            criado apartir de uma classe.
+
+    --Atributos: São as características do objeto.
+
+    --Métodos: Comportamentos exercidos.
+
+    --Classes: Agrupamentos que descrevem todos os objetos com semelhanças úncias.
+    
+    --Instância: Objeto criado apartir de uma classe
+Pilares Programação Orientada:
+ -Abstração: deixar ao mais simples o processo de um objeto/classe etc.
+
+ -Encapsulamento: protejer o código do úsuario e o úsuario do código usando uma interface 
+ para fácil entendimento do úsuario e escudo para que não haja mudanças no código fonte.
+ 
+ -Polimorfismo: uso de um mesmo método usado por classes diferentes entre outros.
+
+ -Herança: herdação de atributos para um nova classe assim já ganhando atributos de outro(s)
+ objeto(s) e sendo aprimorada apartir das necessidades daquela classe
